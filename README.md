@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="text.gif" width="100%" alt="shadow_Voidh GIF" />
+<img src="text.gif" width="100%" alt="shadow_Voidh GIF" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="marshadow-spectrum.gif" width="100%" alt="Marshadow GIF" />
+<img src="marshadow-spectrum.gif" width="100%" alt="Marshadow GIF" />
 </p>
 
 ### About me:
@@ -42,6 +42,7 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" />
@@ -88,11 +89,11 @@ Desenvolvedor C++ & C#
  
 ---
 <p align="center">
-  <img src="marshadow-pokemon.gif" width="100%" alt="marshadow GIF 3 " />
+  <img src=marshadow-pokemon.gif" width="100%" alt="marshadow GIF 3 " />
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/c51afc8691a2623bade38efbca0615a7e79da504dff64fa87ad73d2956fe04bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6369616c25323053706163652d677265793f7374796c653d666f722d7468652d6261646765"  />
+  <img src="https://camo.githubusercontent.com/c51afc8691a2623bade38efbca0615a7e79da504dff64fa87ad73d2956fe04bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6369616c25323053706163652d677265793f7374796c653d666f722d7468652d6261646765"/>
 </p>
 
 <p align="center">
