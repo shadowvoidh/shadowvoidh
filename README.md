@@ -1,12 +1,15 @@
 
-<h1 align="center">$\color{purple}{\text{SHADOW VOIDH}}$</h1>
+<p align="center">
+  <img src="text.gif" width="100%" alt="shadow_Voidh GIF" />
+</p>
 
+---
 
 > [!WARNING]
 > Shadow Voidh é o Melhor de todos os Tempo .
 
 
----
+
 
 
 <p align="center">
@@ -14,10 +17,14 @@
 </p>
 
 ### About me:
+- $\color{#F4C430}{\text{👑 The Real King \.}}$
+- $\color{#EF4444}{\text{☕16y\.}}$
+- $\color{#C084FC}{\text{⚡ Focado em programar em low level "ou não k" e explorar hardware/software.}}$
+- $\color{#EF4444}{\text{🎯 Criando projetos em C, C++ e Csharps\.}}$
+- $\color{#C084FC}{\text{🚀 Sempre estudando e buscando aprender algo novo a cada dia.}}$
+
 Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
-<a href="https://instagram.com/shadow_voidh" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="35" alt="Instagram" />
-</a>
+
 
 ---
 <h3 align="center">Linguagens & Tecnologias</h3>
@@ -67,13 +74,39 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 </p>
 
 ### About me part. TWO :
-- $\color{#F4C430}{\text{👑 The Real King \.}}$
-- $\color{#EF4444}{\text{☕16y\.}}$
-- $\color{#C084FC}{\text{⚡ Focado em programar em low level "ou não k" e explorar hardware/software.}}$
-- $\color{#EF4444}{\text{🎯 Criando projetos em C, C++ e Csharps\.}}$
-- $\color{#C084FC}{\text{🚀 Sempre estudando e buscando aprender algo novo a cada dia.}}$
 
+Desenvolvedor C++ & C# 
+
+<p>
+
+>  🖥Programando em low-level Focado em engenharia de software, desenvolvimento de jogos e aplicações nativas.
+
+> 🔧 Stack Principal: C, C++, C# 📚 Estudante em constante evolução
+
+> 🌑Atualmente aprofundando conhecimentos em lógica de programação e arquitetura de sistemas 
+</p>
+ 
 ---
 <p align="center">
   <img src="marshadow-pokemon.gif" width="100%" alt="marshadow GIF 3 " />
 </p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c51afc8691a2623bade38efbca0615a7e79da504dff64fa87ad73d2956fe04bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6369616c25323053706163652d677265793f7374796c653d666f722d7468652d6261646765"  />
+</p>
+
+<p align="center">
+  <a href="https://www.roblox.com/pt/users/2594057844/profile"  target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.jpg" width="35" height="35" alt="Roblox" style="border-radius: 5px;" />
+  </a>
+<a href="https://instagram.com/shadow_voidh"  target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="35" alt="Instagram" />
+</a>
+  <a  href="https://steamcommunity.com/id/Shadow_Voidh/"  target="_blank">
+<img src="https://cdn.simpleicons.org/steam/000000/FFFFFF" width="35" height="35" alt="Steam" /> &nbsp;
+  </a> 
+</p>
+
+
+
+ 
