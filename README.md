@@ -89,7 +89,7 @@ Desenvolvedor C++ & C#
  
 ---
 <p align="center">
-  <img src=marshadow-pokemon.gif" width="100%" alt="marshadow GIF 3 " />
+  <img src="marshadow-pokemon.gif" width="100%" alt="marshadow GIF 3 " />
 </p>
 
 <p align="center">
