@@ -40,15 +40,18 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 <h3 align="center"> 🖥 Linguagens Secundárias </h3>
 
 <p align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="50" />
+<br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="50" />
+
 </p>
 
 <h3 align="center">🛠️ Ferramentas & IDEs</h3>
