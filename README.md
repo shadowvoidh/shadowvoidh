@@ -54,27 +54,30 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 
 </p>
 
-<h3 align="center">🛠️ Ferramentas & IDEs</h3>
+<h3 align="center">🛠️ Ferramentas & IDEs </h3>
 
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" height="50" />
+  
 </p>
 
-<h3 align="center">💻 Sistemas Operacionais</h3>
+<h3 align="center">💻 Sistemas Operacionais </h3>
 
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg"  height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/voidlinux.svg" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg"  height="50"/>
+  <img src="https://api.iconify.design/simple-icons:windows11.svg?color=%230078d4" alt="Windows 11" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/zorin/10D0F5" alt="Zorin OS" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/voidlinux/47B04B" alt="Void Linux" width="50" height="50" />
+  
 </p>
 
 ---
 
 <p align="center">
   <img src="sh.gif" width="100%" alt="marshadow GIF 2 " />
+  
 </p>
 
 ### About me part. TWO :
