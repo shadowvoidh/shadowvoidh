@@ -31,36 +31,43 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 
 <h3 align="center"> 💻 Linguagens Principais: </h3>
 <p align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg " height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg " width="50"  height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="50" height="50" />
 </p>
 
 
 <h3 align="center"> 🖥 Linguagens Secundárias </h3>
 
 <p align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="50" height="50" />
 <br>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="50" />
-
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"  width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"  height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50" />
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" />
 </p>
 
 <h3 align="center">🛠️ Ferramentas & IDEs </h3>
 
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="50" height="50" />
+  <br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/3840px-Vmware_workstation_16_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" widht="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
   
 </p>
 
