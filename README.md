@@ -110,17 +110,25 @@ Desenvolvedor C++ & C#
 </p>
 
 <p align="center">
-  <a href="https://www.roblox.com/pt/users/2594057844/profile"  target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.jpg" width="35" height="35" alt="Roblox" style="border-radius: 5px;" />
+  
+  <a href="https://www.roblox.com/pt/users/2594057844/profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.jpg" width="32" height="32" alt="Roblox" style="border-radius: 5px;" />
   </a>
-<a href="https://instagram.com/shadow_voidh"  target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="35" alt="Instagram" />
-</a>
-  <a  href="https://steamcommunity.com/id/Shadow_Voidh/"  target="_blank">
-<img src="https://cdn.simpleicons.org/steam/000000/FFFFFF" width="35" height="35" alt="Steam" /> &nbsp;
+  &nbsp;
+  
+  <a href="https://steamcommunity.com/id/Shadow_Voidh/" target="_blank">
+    <img src="https://cdn.simpleicons.org/steam/white" width="32" height="32" alt="Steam" />
   </a> 
+  &nbsp;
+
+  <a href="https://instagram.com/shadow_voidh" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="32" height="32" alt="Instagram" />
+  </a>
+  &nbsp;
+ 
+  <a href="https://linkedin.com/in/pedrocarnio" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="32" height="32" alt="LinkedIn" />
+  </a>
 </p>
-
-
 
  
