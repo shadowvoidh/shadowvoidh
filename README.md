@@ -52,7 +52,7 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50" />
 <br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpzXiMuDHo3fEsvnGworNTLmIBX4UaYuxHvt9Iho66Q&s=10" alt="php" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" />
@@ -76,8 +76,10 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 
 <p align="center">
   <img src="https://api.iconify.design/simple-icons:windows11.svg?color=%230078d4" alt="Windows 11" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" alt="Kali Linux" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/zorin/10D0F5" alt="Zorin OS" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/voidlinux/47B04B" alt="Void Linux" width="50" height="50" />
+  
   
   
 </p>
