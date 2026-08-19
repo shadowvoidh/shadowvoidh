@@ -39,8 +39,9 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 
 <h3 align="center"> 💻 Linguagens Principais: </h3>
 <p align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg " width="50"  height="50" />
+<br>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="50" height="50" />
 </p>
 
@@ -84,8 +85,6 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 
 <p align="center">
   <img src="https://api.iconify.design/simple-icons:windows11.svg?color=%230078d4" alt="Windows 11" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/960px-Kali-dragon-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Kali Linux" width="50" height="50"  />
-  <img src="https://cdn.simpleicons.org/zorin/10D0F5" alt="Zorin OS" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/voidlinux/47B04B" alt="Void Linux" width="50" height="50" />
   
   
