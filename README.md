@@ -5,9 +5,9 @@
 
 ---
 <p align="center">
-  <b>Confira o meu portfólio de projetos 👇</b><br><br>
+  <b>Confira o meu portfólio de projetos </b><br><br>
   <a href="https://github.com/shadowvoidh/readme-repository">
-    <img src="https://img.shields.io/badge/🚀%20Ver%20Portf%C3%B3lio%20de%20Projetos-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Ver Portfólio">
+   <img src="https://img.shields.io/badge/%20Meus%20Projetos-5a189a?style=for-the-badge&logo=github&logoColor=white" alt="Meus Projetos">
   </a>
 </p>
 
