@@ -83,7 +83,7 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 
 <p align="center">
   <img src="https://api.iconify.design/simple-icons:windows11.svg?color=%230078d4" alt="Windows 11" width="50" height="50" />
-  <img src="https://github.com/shadowvoidh/shadowvoidh/blob/main/Finder.png" width="50" height="50" alt="macOS" />
+  <img src="https://imgs.search.brave.com/oi4TievvCZuYj3jB9rQQHYacVr-kOGQAVDb0OB0PqkU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2xv/Z29wZWRpYS9pbWFn/ZXMvYi9iZi9GaW5k/ZXJfQmlnX1N1cl81/MTJ4NTEyQDJ4LnBu/Zy9yZXZpc2lvbi9s/YXRlc3Qvc2NhbGUt/dG8td2lkdGgtZG93/bi8yMDA_Y2I9MjAy/NjA1MDgwMzI1NTM" width="50" heigt="50" alt="macOS Finder Icon" />
   <img src="https://cdn.simpleicons.org/voidlinux/47B04B" alt="Void Linux" width="50" height="50" />
   
   
