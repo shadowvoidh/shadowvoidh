@@ -83,7 +83,7 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 
 <p align="center">
   <img src="https://api.iconify.design/simple-icons:windows11.svg?color=%230078d4" alt="Windows 11" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/shadowvoidh/shadowvoidh/finder.png" width="50" height="50" alt="macOS" />
+  <img src="https://github.com/shadowvoidh/shadowvoidh/blob/main/Finder.png" width="50" height="50" alt="macOS" />
   <img src="https://cdn.simpleicons.org/voidlinux/47B04B" alt="Void Linux" width="50" height="50" />
   
   
