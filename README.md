@@ -55,7 +55,7 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50" />
 <br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"  width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" /
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"  height="50" />
 <img src="https://cdn.simpleicons.org/node.js/5FA04E" width="50" height="50" alt="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />  
