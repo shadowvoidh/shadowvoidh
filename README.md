@@ -50,7 +50,6 @@ Interessado desde novo em Desenvolvimento de Jogos e Aplicativos .
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50" alt="Lua" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="50" height="50" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50" />
 <br>
